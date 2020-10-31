@@ -1,0 +1,258 @@
+.em {
+    text-decoration: none;
+    font-weight: 1000px;
+    color: rgb(2, 255, 255);
+    display:inline-block;
+    background-image: url(image/bitbug_favicon.ico);
+    font-size: 35px;
+    background-size: 70px 70px;
+    width: 300px;
+    height: 80px;
+    background-repeat: no-repeat;
+    line-height: 80px;
+    background-position-y: center;
+    
+}
+.em:hover {
+    background-image: url(image/滑稽.png);
+    background-repeat: no-repeat;
+    background-size: 45px 45px;
+    color: rgb(2, 255, 255);
+}
+
+
+.xuanfu1 {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-image: url(image/动漫.png);
+    background-repeat: no-repeat;
+}
+.xuanfu2 {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-image: url(image/漫画.png);
+    background-repeat: no-repeat;
+}
+.xuanfu3 {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-image: url(image/插画.png);
+    background-repeat: no-repeat;
+}
+.xuanfu1:hover {
+    width: 50px;
+    height: 50px;
+    background-image: url(image/动漫hover.png);
+    background-repeat: no-repeat;
+}
+.xuanfu2:hover {
+    width: 50px;
+    height: 50px;
+    background-image: url(image/漫画hover.png);
+    background-repeat: no-repeat;
+}
+.xuanfu3:hover {
+    width: 50px;
+    height: 50px;
+    background-image: url(image/插画hover.png);
+    background-repeat: no-repeat;
+}
+.style2{
+    text-decoration: none;
+    
+}
+.name {
+    font-size: 28px;
+    font-family: KaiTi;
+    color: cyan;
+}
+
+
+.image-size3 {
+    width: 300px;
+    height: 400px;
+    border-radius: 40px;
+}
+
+* {
+    font-family: KaiTi;
+}
+
+.font-size1 {
+    font-size: 28px;
+    color: cyan;
+
+}
+
+.image-size4 {
+
+    border-radius: 40px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.font-size-style {
+    font-size: 20px;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    
+    background-image: url(image/button1.png);
+    background-position: center center;
+    
+    display: inline-block;
+    width: 112px;
+    height: 48px;
+    line-height: 48px;
+
+}
+#FloatDiv {
+    font-size: 23px;
+}
+a:link {
+    color: black;
+}
+
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: green;
+}
+
+.image .linglong {
+    display: inline-block;
+    width: 250px;
+    height: 350px;
+    background-image: url(image/灵笼/1.png);
+    transition: all .5s;
+    border-radius: 40px;
+}
+
+.image .linglong:hover {
+    background-image: url(image/灵笼/2.png);
+    width: 263px;
+    height: 368px;
+    
+    background-size: 105% 105%;
+    border-radius: 40px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.image .wushan {
+    display: inline-block;
+    width: 250px;
+    height: 350px;
+    background-image: url(image/雾山五行/1.png);
+    transition: all .5s;
+    border-radius: 40px;
+}
+
+.image .wushan:hover {
+    background-image: url(image/雾山五行/2.png);
+    width: 263px;
+    height: 368px;
+    background-position: center center;
+    background-size: 105% 105%;
+    border-radius: 40px;
+}
+
+.image .santi {
+    display: inline-block;
+    width: 250px;
+    height: 350px;
+    background-image: url(image/我的三体/1.png);
+    transition: all .5s;
+    border-radius: 40px;
+}
+
+.image .santi:hover {
+    background-image: url(image/我的三体/2.png);
+    width: 263px;
+    height: 368px;
+    background-position: center center;
+    background-size: 105% 105%;
+    border-radius: 40px;
+}
+
+.image .re0 {
+    display: inline-block;
+    width: 250px;
+    height: 350px;
+    background-image: url(image/Re：从零开始的异世界生活/1.png);
+    transition: all .5s;
+    border-radius: 40px;
+}
+
+.image .re0:hover {
+    background-image: url(image/Re：从零开始的异世界生活/2.png);
+    width: 263px;
+    height: 368px;
+    background-position: center center;
+    background-size: 105% 105%;
+    border-radius: 40px;
+}
+
+.image .ziluolan {
+    display: inline-block;
+    width: 250px;
+    height: 350px;
+    background-image: url(image/紫罗兰永恒花园/1.png);
+    transition: all .5s;
+    border-radius: 40px;
+}
+
+.image .ziluolan:hover {
+    background-image: url(image/紫罗兰永恒花园/2.png);
+    width: 263px;
+    height: 368px;
+    background-position: center center;
+    background-size: 105% 105%;
+    border-radius: 40px;
+}
+
+.image .chaopao {
+    display: inline-block;
+    width: 250px;
+    height: 350px;
+    background-image: url(image/某科学的超电磁炮/1.png);
+    transition: all .5s;
+    border-radius: 40px;
+}
+
+.image .chaopao:hover {
+    background-image: url(image/某科学的超电磁炮/2.png);
+    width: 263px;
+    height: 368px;
+    background-position: center center;
+    background-size: 105% 105%;
+    border-radius: 40px;
+}
+.image-size2 {
+    border-radius: 40px;
+}
+
+
+
+body {
+    background-image: url(image/background.jpg);
+    background-position-x: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1990px 1150px;
+    
+}
+.div{
+    width: 1150px;
+}
+.font-color{
+    color: cyan;
+    font-family: KaiTi;
+}
