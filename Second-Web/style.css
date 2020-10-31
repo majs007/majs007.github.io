@@ -1,0 +1,77 @@
+*{
+    font-family: KaiTi;
+    font-size: 28px;
+}
+.cover-size{
+    width: 250px;
+    height: 341px;
+    border-radius: 40px;
+}
+.font1{
+    font-size: 20px;
+    color: gray;
+}
+.indent{
+    text-indent: 2em;
+}
+.PingLun{
+    font-size: 50px;
+}
+table{
+    line-height: 45px;
+}
+.linglongbackground {
+    color:rgb(0, 247, 255) ;
+    background-image: url(../image/灵笼/background.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+.wushanbackground {
+    color:rgb(0, 247, 255) ;
+    background-image: url(../image/雾山五行/background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+}
+.wosanbackground {
+    color:rgb(0, 247, 255) ;
+    background-image: url(../image/我的三体/background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+    
+}
+.re0background {
+    color:rgb(0, 247, 255) ;
+    background-image: url(../image/Re：从零开始的异世界生活/background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+.ziluolanbackground {
+    color:rgb(0, 247, 255) ;
+    background-image: url(../image/紫罗兰永恒花园/background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+.chaopaobackground {
+    color:rgb(0, 247, 255) ;
+    background-image: url(../image/某科学的超电磁炮/background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+.yuanjiao {
+    border-radius: 40px;
+}.liangdu {
+    background-color: rgba(255,255,255,.3);
+}
+
